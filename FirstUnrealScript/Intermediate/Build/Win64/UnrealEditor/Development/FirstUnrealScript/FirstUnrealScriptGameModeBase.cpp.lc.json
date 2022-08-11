@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "j:\\game dev\\projects\\coursera\\c-programming-for-unreal-game-development-specialization\\firstunrealscript\\source\\firstunrealscript\\firstunrealscriptgamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "j:\\game dev\\projects\\coursera\\c-programming-for-unreal-game-development-specialization\\firstunrealscript\\intermediate\\build\\win64\\firstunrealscripteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "j:\\game dev\\projects\\coursera\\c-programming-for-unreal-game-development-specialization\\firstunrealscript\\intermediate\\build\\win64\\unrealeditor\\development\\firstunrealscript\\definitions.firstunrealscript.h",
+            "j:\\game dev\\projects\\coursera\\c-programming-for-unreal-game-development-specialization\\firstunrealscript\\source\\firstunrealscript\\firstunrealscriptgamemodebase.h",
+            "j:\\game dev\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "j:\\game dev\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "j:\\game dev\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "j:\\game dev\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "j:\\game dev\\projects\\coursera\\c-programming-for-unreal-game-development-specialization\\firstunrealscript\\intermediate\\build\\win64\\unrealeditor\\inc\\firstunrealscript\\firstunrealscriptgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

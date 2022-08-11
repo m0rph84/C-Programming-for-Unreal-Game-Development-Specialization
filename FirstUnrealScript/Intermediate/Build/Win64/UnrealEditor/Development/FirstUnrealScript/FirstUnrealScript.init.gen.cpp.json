@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "j:\\game dev\\projects\\coursera\\c-programming-for-unreal-game-development-specialization\\firstunrealscript\\intermediate\\build\\win64\\unrealeditor\\inc\\firstunrealscript\\firstunrealscript.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "j:\\game dev\\projects\\coursera\\c-programming-for-unreal-game-development-specialization\\firstunrealscript\\intermediate\\build\\win64\\firstunrealscripteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "j:\\game dev\\projects\\coursera\\c-programming-for-unreal-game-development-specialization\\firstunrealscript\\intermediate\\build\\win64\\unrealeditor\\development\\firstunrealscript\\definitions.firstunrealscript.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

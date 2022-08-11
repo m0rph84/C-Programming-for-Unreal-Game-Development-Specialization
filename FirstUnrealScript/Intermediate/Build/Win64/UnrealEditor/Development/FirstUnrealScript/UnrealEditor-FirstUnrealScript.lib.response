@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-FirstUnrealScript.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"J:\Game Dev\Projects\Coursera\C-Programming-for-Unreal-Game-Development-Specialization\FirstUnrealScript\Intermediate\Build\Win64\FirstUnrealScriptEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"J:\Game Dev\Projects\Coursera\C-Programming-for-Unreal-Game-Development-Specialization\FirstUnrealScript\Intermediate\Build\Win64\UnrealEditor\Development\FirstUnrealScript\FirstUnrealScript.cpp.obj"
+"J:\Game Dev\Projects\Coursera\C-Programming-for-Unreal-Game-Development-Specialization\FirstUnrealScript\Intermediate\Build\Win64\UnrealEditor\Development\FirstUnrealScript\FirstUnrealScriptGameModeBase.cpp.obj"
+"J:\Game Dev\Projects\Coursera\C-Programming-for-Unreal-Game-Development-Specialization\FirstUnrealScript\Intermediate\Build\Win64\UnrealEditor\Development\FirstUnrealScript\PrintMessage.cpp.obj"
+"J:\Game Dev\Projects\Coursera\C-Programming-for-Unreal-Game-Development-Specialization\FirstUnrealScript\Intermediate\Build\Win64\UnrealEditor\Development\FirstUnrealScript\FirstUnrealScript.init.gen.cpp.obj"
+"J:\Game Dev\Projects\Coursera\C-Programming-for-Unreal-Game-Development-Specialization\FirstUnrealScript\Intermediate\Build\Win64\UnrealEditor\Development\FirstUnrealScript\FirstUnrealScriptGameModeBase.gen.cpp.obj"
+"J:\Game Dev\Projects\Coursera\C-Programming-for-Unreal-Game-Development-Specialization\FirstUnrealScript\Intermediate\Build\Win64\UnrealEditor\Development\FirstUnrealScript\PrintMessage.gen.cpp.obj"
+"J:\Game Dev\Projects\Coursera\C-Programming-for-Unreal-Game-Development-Specialization\FirstUnrealScript\Intermediate\Build\Win64\UnrealEditor\Development\FirstUnrealScript\Default.rc2.res"
+/OUT:"J:\Game Dev\Projects\Coursera\C-Programming-for-Unreal-Game-Development-Specialization\FirstUnrealScript\Intermediate\Build\Win64\UnrealEditor\Development\FirstUnrealScript\UnrealEditor-FirstUnrealScript.lib"
